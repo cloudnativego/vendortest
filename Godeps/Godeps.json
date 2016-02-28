@@ -1,0 +1,17 @@
+{
+	"ImportPath": "github.com/cloudnativego/vendortest",
+	"GoVersion": "go1.6",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/CrowdSurge/banner",
+			"Rev": "8c0e79dc5ff70fb2919f0d662f44fd72ccdf9be2"
+		},
+		{
+			"ImportPath": "github.com/CrowdSurge/banner/fonts",
+			"Rev": "8c0e79dc5ff70fb2919f0d662f44fd72ccdf9be2"
+		}
+	]
+}
